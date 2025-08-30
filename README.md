@@ -11,6 +11,7 @@ I’m passionate about creating **scalable & efficient web solutions**.
 
 ## 🚀 Skills & Technologies  
 
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)  
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)  
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=fff)  
@@ -58,17 +59,3 @@ Herat University – **Graduated 2024**
 
 ---
 
-## 📊 GitHub Stats  
-
-![Ramesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=rameshraoufi1&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rameshraoufi1&layout=compact&theme=radical)  
-
----
-
-## 📫 Connect with Me  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=fff)](#)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=fff)](#)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:your-email@example.com)  
-
----
