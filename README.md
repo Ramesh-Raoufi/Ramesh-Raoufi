@@ -4,7 +4,7 @@
 
 I’m a **Frontend Developer** and **Digital Marketer** from **Herat, Afghanistan**.  
 With **4+ years of experience**, I specialize in building modern, responsive, and user-friendly web applications.  
-Graduated in **Computer Science (Databases) from Herat University – 2026** 🎓.  
+Graduated in **Computer Science (Databases) from Herat University – 2024** 🎓.  
 I’m passionate about creating **scalable & efficient web solutions**.  
 
 ---
@@ -22,7 +22,6 @@ I’m passionate about creating **scalable & efficient web solutions**.
 ![Express.js](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=fff)  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)  
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=fff)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)  
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=fff)  
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=fff)  
 
@@ -31,7 +30,7 @@ I’m passionate about creating **scalable & efficient web solutions**.
 ## 🎓 Education  
 
 📚 **Bachelor of Computer Science (Databases)**  
-Herat University – **Graduated 2026**  
+Herat University – **Graduated 2024**  
 
 ---
 
