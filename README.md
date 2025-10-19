@@ -3,7 +3,7 @@
 ### 👨‍💻 Frontend Web Developer | 💡 Digital Marketer | 🎓 Computer Science Graduate  
 
 I’m a **Frontend Developer** and **Digital Marketer** from **Herat, Afghanistan**.  
-With **4+ years of experience**, I specialize in building modern, responsive, and user-friendly web applications.  
+With **3+ years of experience**, I specialize in building modern, responsive, and user-friendly web applications.  
 Graduated in **Computer Science (Databases) from Herat University – 2024** 🎓.  
 I’m passionate about creating **scalable & efficient web solutions**.  
 
