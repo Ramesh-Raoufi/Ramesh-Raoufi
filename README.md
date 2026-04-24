@@ -1,61 +1,44 @@
-# 👋 Hi, I'm Ahmad Ramesh Raoufi  
+# Hi, I'm Ahmad Ramesh Raoufi 👋
 
-### 👨‍💻 Frontend Web Developer | 💡 Digital Marketer | 🎓 Computer Science Graduate  
+Frontend developer focused on practical products, modern admin interfaces, and useful web applications.
 
-I’m a **Frontend Developer** and **Digital Marketer** from **Herat, Afghanistan**.  
-With **3+ years of experience**, I specialize in building modern, responsive, and user-friendly web applications.  
-Graduated in **Computer Science (Databases) from Herat University – 2024** 🎓.  
-I’m passionate about creating **scalable & efficient web solutions**.  
+## Current focus
+- ERP product design and development
+- clean admin UX
+- React, Next.js, and TypeScript product work
 
----
+## What I build
+- operational dashboards
+- ERP and admin systems
+- responsive frontend applications
+- practical interfaces that help people do real work faster
 
-## 🚀 Skills & Technologies  
+## Featured direction
+- **ERP Next**: product, orders, customers, payments, invoices, bills, inventory, and transfers
+- **GitHub Archive**: transparent archive of older work, notes, and project summaries
+- **UI and product work**: frontend systems with a strong focus on clarity and usability
 
+## Skills
+- HTML, CSS, Tailwind CSS
+- JavaScript, TypeScript
+- React, Next.js, Vue.js
+- Node.js, Express.js
+- Git, GitHub, Vercel, Netlify
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)  
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=fff)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000)  
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=fff)  
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=fff)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff)  
-![Express.js](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=fff)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=fff)  
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=fff)  
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=fff)  
+## Experience
+- Frontend web development
+- admin systems and business tools
+- digital product design thinking
+- digital marketing background
 
----
+## Education
+Bachelor of Computer Science (Databases), Herat University
 
-## 🎓 Education  
+## Languages
+- Dari
+- Turkish
+- English
 
-📚 **Bachelor of Computer Science (Databases)**  
-Herat University – **Graduated 2024**  
-
----
-
-## 💼 Work Experience  
-
-**Frontend Web Developer – Lajward Company**  
-📆 *Jan 2024 – Present (Full-time)*  
-🔹 Developing modern web apps, accounting systems, and hospital queue management solutions.  
-
-**Frontend Development Intern – Lajward Company**  
-📆 *Jun 2023 – Jan 2024*  
-🔹 Learned professional frontend workflows, React-based design systems, and real-world project collaboration.  
-
-**Web Developer & Digital Marketer – HaqNet Company**  
-📆 *Dec 2021 – Feb 2023*  
-🔹 Built and optimized websites, contributed to digital marketing campaigns, and gained experience with web solutions.  
-
----
-
-## 🌍 Languages  
-
-- 🟢 **Dari** (Native)  
-- 🔵 **Turkish** (Proficient)  
-- 🟣 **English** (Proficient)  
-
----
-
+## GitHub
+- Main profile: [Ramesh-Raoufi](https://github.com/Ramesh-Raoufi)
+- Archive repo: [github-archive](https://github.com/Ramesh-Raoufi/github-archive)
