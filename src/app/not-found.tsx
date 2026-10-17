@@ -1,0 +1,1 @@
+import Link from "next/link";export default function NotFound(){return <section className="pagehero"><div className="container"><p className="eyebrow">404 · PAGE NOT FOUND</p><h1>This path ends<br/><em>somewhere else.</em></h1><p>Try the guide library or tool directory.</p><Link className="button primary" href="/guides">Explore guides ↗</Link></div></section>}
